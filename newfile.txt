@@ -1,0 +1,2 @@
+this note added to see how git track files befor commit it
+new line to  see diff command  f
